@@ -1,4 +1,4 @@
-package Greedy;
+package greedy;
 
 public class greedy3_1 {
 
